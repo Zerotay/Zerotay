@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## 끝까지 가면 다 이긴다 👋
+### 엔지니어 지망생 김동건입니다.
 <!--
 **Zerotay/Zerotay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zerotay&show_icons=true&theme=vue-dark)
+
+[![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=zerogun1000)](https://solved.ac/zerogun1000)
