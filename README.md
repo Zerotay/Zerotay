@@ -12,6 +12,7 @@
 ##### 최근 관심사 
 <img src="https://img.shields.io/badge/vim-019733?style=for-the-badge&logo=vim&logoColor=white"> <img src="https://img.shields.io/badge/obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white">
 <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white">
+<img src="https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
 
 
 ## 기술, 스택
