@@ -9,6 +9,8 @@
 새로운 기술을 공부하는 걸 좋아합니다.  
 사용자에게 배포되는 서비스를 지향합니다.  
 
+개인 블로그: https://zerotay-blog.vercel.app
+
 ##### 최근 관심사 
 <img src="https://img.shields.io/badge/vim-019733?style=for-the-badge&logo=vim&logoColor=white"> <img src="https://img.shields.io/badge/obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white">
 <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white">
